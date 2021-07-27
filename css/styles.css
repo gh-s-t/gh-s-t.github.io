@@ -1,3 +1,8 @@
+header {
+  line-height: 58px;
+  background-color: navy;
+}
+
 #profile-photo {
 width: 180px;
 height: 200px;
@@ -29,3 +34,15 @@ img {
   width: 600px;
   height: 500px;
 }
+
+.feed {
+  margin: 100px;
+  padding: 40px;
+  background-color: rgb(196, 194, 194);
+  border-radius: 10px;
+}
+
+p {
+  color: rgb  
+}
+
